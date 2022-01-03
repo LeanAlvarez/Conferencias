@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820111513922",
+    "firebase_url": "https://conferenciaplatzi-56c40.firebaseio.com",
+    "project_id": "conferenciaplatzi-56c40",
+    "storage_bucket": "conferenciaplatzi-56c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820111513922:android:4bbb02db5a7c62d2a190db",
+        "android_client_info": {
+          "package_name": "com.mirai.platziconf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820111513922-mnfesjceedhn44g170bg8a1d4kfmds22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.platziconf",
+            "certificate_hash": "fd12a51445cb8564f946e2ccdd15f9a135968966"
+          }
+        },
+        {
+          "client_id": "820111513922-ogpp0onuqde636rftje5643ek74titpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfMb8X_oFKD6Bs2U3GATsT5QWmd8woK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820111513922-ogpp0onuqde636rftje5643ek74titpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
